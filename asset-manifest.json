@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rate-calculator/static/css/main.78f1300a.css",
+    "main.js": "/rate-calculator/static/js/main.6bb3b6f2.js",
+    "index.html": "/rate-calculator/index.html",
+    "main.78f1300a.css.map": "/rate-calculator/static/css/main.78f1300a.css.map",
+    "main.6bb3b6f2.js.map": "/rate-calculator/static/js/main.6bb3b6f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78f1300a.css",
+    "static/js/main.6bb3b6f2.js"
+  ]
+}
