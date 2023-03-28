@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/rate-calculator/static/css/main.f02c6898.css",
-    "main.js": "/rate-calculator/static/js/main.220543ae.js",
+    "main.css": "/rate-calculator/static/css/main.086c086d.css",
+    "main.js": "/rate-calculator/static/js/main.95c3acff.js",
     "index.html": "/rate-calculator/index.html",
-    "main.f02c6898.css.map": "/rate-calculator/static/css/main.f02c6898.css.map",
-    "main.220543ae.js.map": "/rate-calculator/static/js/main.220543ae.js.map"
+    "main.086c086d.css.map": "/rate-calculator/static/css/main.086c086d.css.map",
+    "main.95c3acff.js.map": "/rate-calculator/static/js/main.95c3acff.js.map"
   },
   "entrypoints": [
-    "static/css/main.f02c6898.css",
-    "static/js/main.220543ae.js"
+    "static/css/main.086c086d.css",
+    "static/js/main.95c3acff.js"
   ]
 }
